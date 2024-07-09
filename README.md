@@ -1,4 +1,4 @@
-# 1st_Project_JSP
+# 1st_Project_Servlets
 
 1차 미니프로젝트 위스키백과 (Servlets & JSP)
 
