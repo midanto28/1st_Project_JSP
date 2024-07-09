@@ -1,7 +1,0 @@
-function productCheck(){
-        return false;
-
-}
-
-
-
